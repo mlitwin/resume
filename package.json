@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Resume of Matthew David Litwin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mlitwin@sonic.net",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "handlebars": "^4.7.2"
+  }
+}
