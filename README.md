@@ -23,7 +23,6 @@ Web Sketchpad
 HTML5 viewer for the Geometer's Sketchpad.
 Interactive content in MHE products.
 
-
 ### KCP Technologies
 
 03/22/1999 to 07/31/2012
@@ -46,7 +45,10 @@ Junior programmer to Senior Software Engineer
  
 * HTML5/JavaScript/typescript Application Development
 * C / C++
+* terraform
 * node, Perl, PHP, bash
+
+<div class="page-break"></div>
 
 ## Projects
 
