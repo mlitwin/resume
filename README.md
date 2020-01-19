@@ -8,11 +8,15 @@ Experienced in managing engineers, designing and implementing front-end and back
 
 ### McGraw Hill Education
 
+07/31/2012 – Present
+
 #### Software Engineering Manager
 
-* Lead for a diverse [Full Cycle](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249) engineering team
-* Backend, front-end, infrastructure and support. 
-* Management of full time employees, contractors, and vendors.
+_Team Lead and Manager Responsibilites_
+
+* Lead a diverse [Full Cycle](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249) engineering team
+* Backend, front-end, infrastructure and support
+* Management of full time employees, contractors, and vendors
 
 _[Smartbook 2](https://www.mheducation.com/highered/connect/smartbook.html)_
 
@@ -27,18 +31,18 @@ This was a component of MHE's authoring suite, enabled author creation of banks 
 Desig and implmenetation of "Web Sketchpad", an HTML5 viewer for Geometer's Sketchpad documents. This was a ground-up re-implementation of the desktop softwares internal C logic into HTML5 / JavaScript.
 
 * Planning and design
-* implementation: coding, and directing developers
-* negotiating feature-set and schedule with stakeholders 
+* Implementation: coding, and directing developers
+* Negotiating feature-set and schedule with stakeholders 
 
 ### KCP Technologies
 
-03/22/1999 to 07/31/2012
+03/22/1999 – 07/31/2012
 
-Junior programmer to Senior Software Engineer
+Junior Programmer to Senior Software Engineer
 
 * Technical project management, several direct reports
-* C, Windows MFC, and Mac Objective C programming on <span class="software">The Geometer's Sketchpad</span>
-* Mac and Windows programming on <span class="software">Fathom&trade; Dynamic Data&trade; Software</span> with an in-house cross-platform framework
+* C, Windows MFC, and Mac Objective C programming on _The Geometer's Sketchpad_, a math education Dynamic Geometery visualization and interaction application.
+* Mac and Windows programming on _Fathom&trade; Dynamic Data&trade; Software_ with an in-house cross-platform C++ framework
 
 ## Skills
 
@@ -60,10 +64,10 @@ Junior programmer to Senior Software Engineer
 * University of California, Santa Barbara - MS Mathematics - 1997
 * University of California, Berkeley - BS Mathematics - 1994
 
-# Contact and Sites
+# Contacts
 
 * mlitwin@sonic.net
 * [github](https://github.com/mlitwin)
-* [linkedin](https://www.linkedin.com/in/matthewlitwin/) |
+* [linkedin](https://www.linkedin.com/in/matthewlitwin/)
 
 
