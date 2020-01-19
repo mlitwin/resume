@@ -11,8 +11,8 @@ const pageSource =
 <meta charset="utf-8">
 <title>Résumé – Matthew Litwin</title>
 
-<link rel="stylesheet" href="screen.css" media="screen">
-<link rel="stylesheet" href="print.css" media="print">
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/main.css">
 
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
