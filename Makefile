@@ -11,6 +11,6 @@ build: build-html
 
 .PHONY: build-html
 build-html: build-html	
-	$(PANDOC) -r gfm -w html5+smart --output=temp.html README.md
-	node ./bin/makehtml.js temp.html > www/index.html
-	rm temp.html
+	$(PANDOC) -r gfm -w html5+smart --output=tmp.html README.md
+	node ./bin/makehtml.js template.html tmp.html > www/index.html
+	rm tmp.html
