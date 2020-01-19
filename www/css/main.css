@@ -99,7 +99,7 @@ textarea {
    ========================================================================== */
 
 body {
-  background: #f5e5bc;
+  background:url(../img/background.jpg) #f5e5bc;
   font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
   padding: 10px 20px 10px 20px;
 }
@@ -107,6 +107,10 @@ body {
 .page-break {
     display: block;
     page-break-before: always;
+}
+
+#wsp {
+  float: right;
 }
 
 /* ==========================================================================

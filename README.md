@@ -2,11 +2,11 @@
 
 **Software Enginering Manager and Lead**
 
-Experienced in managing engineers, designing and implementing front-end and back-end systems, and educational software.
+Managing engineers, designing and implementing front-end and back-end systems, creating educational software.
 
 ## Experience / Work History
 
-### McGraw Hill Education
+### McGraw-Hill Education
 
 07/31/2012 – Present
 
@@ -16,6 +16,7 @@ _Team Lead and Manager Responsibilites_
 
 * Lead a diverse [Full Cycle](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249) engineering team
 * Backend, front-end, infrastructure and support
+* API design, technical solutions
 * Management of full time employees, contractors, and vendors
 
 _[Smartbook 2](https://www.mheducation.com/highered/connect/smartbook.html)_
@@ -24,14 +25,15 @@ An HTML5 update / rethink of older (flash based) Smartbook product.  My team cre
 
 _Rich-Text Glossary_
 
-This was a component of MHE's authoring suite, enabled author creation of banks of Glossary terms and definitions. Supported rich text, images, mutiple languages. AngularJS on the front-end, node on the back-end. 
+This is a component of MHE's internal authoring suite, enabling author creation of banks of glossary terms and definitions. Supports rich text, images, mutiple languages. AngularJS on the front-end, node on the back-end. 
 
 #### Software Engineering Lead
 
 Desig and implmenetation of "Web Sketchpad", an HTML5 viewer for Geometer's Sketchpad documents. This was a ground-up re-implementation of the desktop softwares internal C logic into HTML5 / JavaScript.
 
 * Planning and design
-* Implementation: coding, and directing developers
+* Implementation / coding
+* Technical project management, several direct reports
 * Negotiating feature-set and schedule with stakeholders 
 
 ### KCP Technologies
@@ -40,9 +42,8 @@ Desig and implmenetation of "Web Sketchpad", an HTML5 viewer for Geometer's Sket
 
 Junior Programmer to Senior Software Engineer
 
-* Technical project management, several direct reports
-* C, Windows MFC, and Mac Objective C programming on _The Geometer's Sketchpad_, a math education Dynamic Geometery visualization and interaction application.
-* Mac and Windows programming on _Fathom&trade; Dynamic Data&trade; Software_ with an in-house cross-platform C++ framework
+* C, Windows MFC, and Mac Objective C programming on _The Geometer's Sketchpad_, an educational geometery visualization and interaction application.
+* Mac and Windows programming on _Fathom Dynamic Data Software_, an educational statistics application. Used an in-house cross-platform C++ framework.
 
 ## Skills
 
