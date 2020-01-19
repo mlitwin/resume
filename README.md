@@ -2,9 +2,7 @@
 
 **Software Enginering Manager and Lead**
 
-* Manange Engineers
-* Design and Implement Front-end and Back-end Systems
-* Math Education Software
+Experienced in managing engineers, designing and implementing front-end and back-end systems, and educational software.
 
 ## Experience / Work History
 
@@ -16,12 +14,21 @@
 * Backend, front-end, infrastructure and support. 
 * Management of full time employees, contractors, and vendors.
 
+_[Smartbook 2](https://www.mheducation.com/highered/connect/smartbook.html)_
+
+An HTML5 update / rethink of older (flash based) Smartbook product.  My team created the authoring application for augmenting ePub content with rich metadata, enabling an adaptive end-user experience. Angular 7 on the front-end, and multiple backend components (php, node).
+
+_Rich-Text Glossary_
+
+This was a component of MHE's authoring suite, enabled author creation of banks of Glossary terms and definitions. Supported rich text, images, mutiple languages. AngularJS on the front-end, node on the back-end. 
+
 #### Software Engineering Lead
 
-Web Sketchpad
+Desig and implmenetation of "Web Sketchpad", an HTML5 viewer for Geometer's Sketchpad documents. This was a ground-up re-implementation of the desktop softwares internal C logic into HTML5 / JavaScript.
 
-HTML5 viewer for the Geometer's Sketchpad.
-Interactive content in MHE products.
+* Planning and design
+* implementation: coding, and directing developers
+* negotiating feature-set and schedule with stakeholders 
 
 ### KCP Technologies
 
@@ -48,26 +55,15 @@ Junior programmer to Senior Software Engineer
 * terraform
 * node, Perl, PHP, bash
 
-<div class="page-break"></div>
-
-## Projects
-
-## Smartbook 2
-
-[Smartbook 2](https://www.mheducation.com/highered/connect/smartbook.html) is the HTML5 update / rethink of older (flash based) Smartbook product. 
-
-My team created authoring application for augmenting ePub content with rich metadata, enabling adaptive end-user experience.
-
-## The Geometer’s Sketchpad
-
-The Geometer's Sketchpad</a></span> is an interactive Dynamic Geometry™ application, available for Windows, Mac, and iOS. I worked on the most recent major version, coding considerable portions of the Windows front end, also implementing core geometric and utility algorithms. I am also the tech lead for the development of an HTML5/JavaScript viewer for Sketchpad documents.
-
-## Fathom
-
-Fathom was a Dynamic Mathematics application for teaching Data Analysis and Statistics, available for Windows and Mac. I coded using an in-house cross-platform C++ framework, including HTTP download components, and mathematical algorithms (such as multiple linear regression, and primality testing).
-
 ## Education
 
-University of California, Santa Barbara - MS Mathematics - 1997
-University of California, Berkeley - BS Mathematics - 1994
+* University of California, Santa Barbara - MS Mathematics - 1997
+* University of California, Berkeley - BS Mathematics - 1994
+
+# Contact and Sites
+
+* mlitwin@sonic.net
+* [github](https://github.com/mlitwin)
+* [linkedin](https://www.linkedin.com/in/matthewlitwin/) |
+
 
