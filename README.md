@@ -12,8 +12,6 @@ Managing engineers, designing and implementing front-end and back-end systems, c
 
 #### Software Engineering Manager
 
-_Team Lead / Software Engineering Manager_
-
 * Lead a diverse [Full Cycle](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249) engineering team
 * Backend, front-end, infrastructure and support
 * API design, technical solutions
