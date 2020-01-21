@@ -65,10 +65,8 @@ Junior Programmer to Senior Software Engineer
 * University of California, Santa Barbara - MS Mathematics - 1997
 * University of California, Berkeley - BS Mathematics - 1994
 
-# Contacts
+#
 
-* mlitwin@sonic.net
-* [github](https://github.com/mlitwin)
-* [linkedin](https://www.linkedin.com/in/matthewlitwin/)
-
+| mlitwin@sonic.net  | [github](https://github.com/mlitwin) | [linkedin](https://www.linkedin.com/in/matthewlitwin/)
+| ------------- | ------------- | ------------- |
 
