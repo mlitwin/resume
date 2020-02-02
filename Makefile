@@ -2,12 +2,13 @@
 
 PANDOC=pandoc
 
+OUTPATH=www/files
 OUTPUTNAME=MatthewDavidLitwin
 
 .PHONY: build
 build: build-html
-	$(PANDOC) -r gfm -w docx --output=$(OUTPUTNAME).docx README.md
-	$(PANDOC) -r gfm -w pdf --output=$(OUTPUTNAME).pdf README.md
+	$(PANDOC) -r gfm -w docx --output=$(OUTPATH)/$(OUTPUTNAME).docx README.md
+	$(PANDOC) -r gfm -w pdf --output=$(OUTPATH)/$(OUTPUTNAME).pdf README.md
 
 .PHONY: build-html
 build-html: build-html	
