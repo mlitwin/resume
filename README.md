@@ -32,12 +32,15 @@ This is a component of MHE's internal authoring suite, enabling author creation 
 
 #### Software Engineering Lead
 
-Design and implementation of "Web Sketchpad", an HTML5 viewer for Geometer's Sketchpad documents. This was a ground-up re-implementation of the desktop softwares internal C logic into HTML5 / JavaScript.
+Design and implementation of "Web Sketchpad", an HTML5 viewer for Geometer's Sketchpad documents. This was a ground-up re-implementation of the desktop software's internal C logic into HTML5 / JavaScript. 
 
 * Planning and design
 * Implementation / coding
 * Technical project management, several direct reports
-* Negotiating feature-set and schedule with stakeholders 
+* Negotiating feature-set and schedule with stakeholders
+
+
+Here is an [engineering presentation](https://mlitwin.github.io/Cyclades) I gave using Web Sketchpad - navigate with the right and left arrow.
 
 ### KCP Technologies
 
@@ -56,7 +59,7 @@ Junior Programmer to Senior Software Engineer
 * Issue Tracking: JIRA, Trello, Bugzilla
 * Content Management Systems: Confluence, MediaWiki
 
-## Programming Languages
+## Languages and Tools
  
 * HTML5/JavaScript/typescript Application Development
 * C / C++
