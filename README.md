@@ -36,7 +36,7 @@ Design and implementation of "Web Sketchpad", an HTML5 viewer for Geometer's Ske
 
 * Planning and design
 * Implementation / coding
-* Technical project management, several direct reports
+* Technical project management, 4 direct reports
 * Negotiating feature-set and schedule with stakeholders
 
 Here is an [engineering presentation](https://mlitwin.github.io/Cyclades) I gave using Web Sketchpad - navigate with the right and left arrow. You can see some more [pedagogic examples](https://illuminations.nctm.org/wsp/) hosted on the _National Council of Teachers of Mathematics (NCTM)_ site.
@@ -64,6 +64,10 @@ Junior Programmer to Senior Software Engineer
 * Terraform
 * Node, Perl, PHP, bash, etc.
 * C / C++
+
+## Volunteering
+
+Volunteer for [Hesperian Health Guides](https://hesperian.org/), a nonprofit health information and health education source. Engineering for Hesperian's mobile applications using [Apache Cordova](https://cordova.apache.org/) and [Framework7](https://framework7.io/), wrapped in an [application library](https://github.com/hesperianit/hesperian-mobile). Addition technical support for them as needed.
 
 ## Education
 
