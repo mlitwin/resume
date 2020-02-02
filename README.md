@@ -1,8 +1,11 @@
 # Matthew David Litwin
 
-**Software Engineering Manager and Lead**
+## Software Engineering Manager and Lead
 
-Managing engineers, designing and implementing front-end and back-end systems, creating educational software.
+* Designing and implementing front-end and back-end systems
+* Managing engineers
+* Creating educational software
+* Strong mathematics background
 
 ## Experience / Work History
 
@@ -13,7 +16,7 @@ Managing engineers, designing and implementing front-end and back-end systems, c
 #### Software Engineering Manager
 
 * Lead a diverse [Full Cycle](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249) engineering team
-* Backend, front-end, infrastructure and support
+* Backend, front-end, infrastructure, and support
 * API design, technical solutions
 * Management of full time employees, contractors, and vendors
 
