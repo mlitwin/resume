@@ -39,8 +39,7 @@ Design and implementation of "Web Sketchpad", an HTML5 viewer for Geometer's Ske
 * Technical project management, several direct reports
 * Negotiating feature-set and schedule with stakeholders
 
-
-Here is an [engineering presentation](https://mlitwin.github.io/Cyclades) I gave using Web Sketchpad - navigate with the right and left arrow.
+Here is an [engineering presentation](https://mlitwin.github.io/Cyclades) I gave using Web Sketchpad - navigate with the right and left arrow. You can see some more [pedagogic examples](https://illuminations.nctm.org/wsp/) hosted on the _National Council of Teachers of Mathematics (NCTM)_ site.
 
 ### KCP Technologies
 
