@@ -24,7 +24,7 @@ Selected projects:
 
 _[SmartBook 2](https://www.mheducation.com/highered/connect/smartbook.html)_
 
-An HTML5 update / rethink of older (flash based) SmartBook product.  My team created the authoring application for augmenting ePub content with rich metadata, enabling an adaptive end-user experience. Angular 7 on the front-end, and multiple backend components (php, node).
+An HTML5 update / rethink of older (flash based) SmartBook product.  My team created the authoring application for augmenting ePub content with rich metadata, enabling an adaptive end-user experience. Angular on the front-end, and multiple backend components (php, node).
 
 _Rich-Text Glossary_
 
@@ -47,7 +47,7 @@ Here is an [engineering presentation](https://mlitwin.github.io/Cyclades) I gave
 
 Junior Programmer to Senior Software Engineer
 
-* C, Windows MFC, and Mac Objective C programming on _The Geometer's Sketchpad_, an educational geometry visualization and interaction application.
+* C, Windows MFC, and Mac Objective C programming on [_The Geometer's Sketchpad_](https://en.wikipedia.org/wiki/The_Geometer%27s_Sketchpad), an educational geometry visualization and interaction application.
 * Mac and Windows programming on _Fathom Dynamic Data Software_, an educational statistics application. Used an in-house cross-platform C++ framework.
 
 ## Skills
@@ -60,10 +60,10 @@ Junior Programmer to Senior Software Engineer
 
 ## Languages and Tools
  
-* HTML5/JavaScript/typescript Application Development
+* HTML5 / CSS / JavaScript / TypeScript
+* Terraform
+* Node, Perl, PHP, bash, etc.
 * C / C++
-* terraform
-* node, Perl, PHP, bash
 
 ## Education
 
