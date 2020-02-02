@@ -2,7 +2,7 @@
 
 PANDOC=pandoc
 
-OUTPATH=www/files
+OUTPATH=docs/files
 OUTPUTNAME=MatthewDavidLitwin
 
 .PHONY: build
@@ -13,5 +13,5 @@ build: build-html
 .PHONY: build-html
 build-html: build-html	
 	$(PANDOC) -r gfm -w html5+smart --output=tmp.html README.md
-	node ./bin/makehtml.js template.html tmp.html > www/index.html
+	node ./bin/makehtml.js template.html tmp.html > docs/index.html
 	rm tmp.html
