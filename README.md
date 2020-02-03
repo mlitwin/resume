@@ -15,7 +15,7 @@
 
 #### Software Engineering Manager
 
-1/1/2017 - Present
+1/1/2017 – Present
 
 * Lead a diverse [Full Cycle](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249) engineering team
 * Backend, front-end, infrastructure, and support
@@ -34,7 +34,7 @@ This is a component of MHE's internal authoring suite, enabling author creation 
 
 #### Software Engineering Lead
 
-1/1/2013 - 1/1/2017
+1/1/2013 – 1/1/2017
 
 Design and implementation of "Web Sketchpad", an HTML5 viewer for Geometer's Sketchpad documents. This was a ground-up re-implementation of the desktop software's internal C logic into HTML5 / JavaScript. 
 
@@ -47,7 +47,7 @@ Here is an [engineering presentation](https://mlitwin.github.io/Cyclades) I gave
 
 #### Senior Software Engineer
 
-7/31/2012 - 1/1/2013
+7/31/2012 – 1/1/2013
 
 Support of _The Geometer's Sketchpad_ desktop product, planning and initial work for integration of Web Sketchpad into McGraw-Hill offerings.
 
