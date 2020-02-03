@@ -15,6 +15,8 @@
 
 #### Software Engineering Manager
 
+1/1/2017 - Present
+
 * Lead a diverse [Full Cycle](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249) engineering team
 * Backend, front-end, infrastructure, and support
 * API design, technical solutions
@@ -32,6 +34,8 @@ This is a component of MHE's internal authoring suite, enabling author creation 
 
 #### Software Engineering Lead
 
+1/1/2013 - 1/1/2017
+
 Design and implementation of "Web Sketchpad", an HTML5 viewer for Geometer's Sketchpad documents. This was a ground-up re-implementation of the desktop software's internal C logic into HTML5 / JavaScript. 
 
 * Planning and design
@@ -40,6 +44,17 @@ Design and implementation of "Web Sketchpad", an HTML5 viewer for Geometer's Ske
 * Negotiating feature-set and schedule with stakeholders
 
 Here is an [engineering presentation](https://mlitwin.github.io/Cyclades) I gave using Web Sketchpad - navigate with the right and left arrow. You can see some more [pedagogic examples](https://illuminations.nctm.org/wsp/) hosted on the _National Council of Teachers of Mathematics (NCTM)_ site.
+
+#### Senior Software Engineer
+
+7/31/2012 - 1/1/2013
+
+Support of _The Geometer's Sketchpad_ desktop product, planning and initial work for integration of Web Sketchpad into McGraw-Hill offerings.
+
+* Coding for and releases of updates to the desktop product
+* Managing the integration of initial Web Sketchpad version into Time to Know (T2K), now [Enabely](https://enabley.io/)
+* Participation in adoption of SCRUM project management methodology, and transition from MediaWiki/BugZilla to Confluence/JIRA tools
+
 
 ### KCP Technologies
 
