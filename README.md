@@ -13,9 +13,22 @@
 
 07/31/2012 – Present
 
+#### Sr. Manager Software Engineering 
+
+10/1/2020 – Present
+
+* Direct reports in different teams
+* Mentoring and guiding career growth / promotion
+* Cross-team solutions for new product offerings
+* Solutions (and prototypes) for infrastructure improvements
+* Hiring manager for contractors and FTEs
+* Team restructuring and realignment
+* Product (and infrastructure) retirement
+
+
 #### Software Engineering Manager
 
-1/1/2017 – Present
+1/1/2017 – 10/1/2020 
 
 * Lead a diverse [Full Cycle](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249) engineering team
 * Backend, front-end, infrastructure, and support
