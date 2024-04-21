@@ -2,8 +2,9 @@
 
 **Software Engineering Manager and Lead**
 
-- Designing and implementing front-end and back-end systems
+- Cross-team planning and architecture
 - Managing engineers
+- Designing and implementing front-end and back-end systems
 - Creating educational software
 - Strong mathematics background
 
@@ -76,6 +77,7 @@ Junior Programmer to Senior Software Engineer
 
 - HTML5 / CSS / JavaScript / TypeScript
 - Terraform
+- Database (basics - SQL queries, indexes, etc.)
 - Node, Perl, PHP, bash, etc.
 - C / C++
 
