@@ -15,3 +15,7 @@ build-html: build-html
 	$(PANDOC) -r gfm -w html5+smart --output=tmp.html README.md
 	node ./bin/makehtml.js template.html tmp.html > docs/index.html
 	rm tmp.html
+
+.PHONY: serve
+serve:
+	php -S 0.0.0.0:4000 -t ./docs

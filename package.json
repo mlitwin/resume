@@ -9,6 +9,6 @@
   "author": "mlitwin@sonic.net",
   "license": "SEE LICENSE IN LICENSE.md",
   "dependencies": {
-    "handlebars": "^4.7.2"
+    "handlebars": "^4.7.8"
   }
 }
