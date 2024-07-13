@@ -17,6 +17,8 @@
 Everything in `Sr. Manager`, and
 
 - Managing Mangers
+- Architecture for foundational services
+- Everything under Sr. Manager
 
 **10/1/2020: 7/1/2024: Sr. Manager, Software Engineering**
 
