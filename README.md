@@ -14,7 +14,7 @@
 
 **10/1/2020: 7/1/2024: Director, Software Engineering**
 
-Everything in `Sr. Manager`, and
+Everything in **Sr. Manager**, and
 
 - Managing Mangers
 - Architecture for foundational services
