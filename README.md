@@ -1,6 +1,6 @@
 # Matthew David Litwin
 
-**Software Engineering Manager and Lead**
+**Software Engineering Manager**
 
 - Cross-team planning and architecture
 - Managing engineers
@@ -12,7 +12,13 @@
 
 ### From 07/31/2012: McGraw-Hill Education
 
-**Sr. Manager Software Engineering**
+**10/1/2020: 7/1/2024: Director, Software Engineering**
+
+Everything in `Sr. Manager`, and
+
+- Managing Mangers
+
+**10/1/2020: 7/1/2024: Sr. Manager, Software Engineering**
 
 - Direct reports in different teams
 - Mentoring and guiding career growth / promotion
@@ -22,7 +28,7 @@
 - Team restructuring and realignment
 - Product (and infrastructure) retirement
 
-**1/1/2017 – 10/1/2020: Software Engineering Manager**
+**1/1/2017 – 10/1/2020: Manager, Software Engineering**
 
 - Lead a diverse [Full Cycle](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249) engineering team
 - Backend, front-end, infrastructure, and support
@@ -90,7 +96,7 @@ Volunteer for [Hesperian Health Guides](https://hesperian.org/), a nonprofit hea
 - University of California, Santa Barbara - MS Mathematics - 1997
 - University of California, Berkeley - BS Mathematics - 1994
 
-#
+---
 
 | mlitwin@sonic.net | [github](https://github.com/mlitwin) | [linkedin](https://www.linkedin.com/in/matthewlitwin/) |
 | ----------------- | ------------------------------------ | ------------------------------------------------------ |
